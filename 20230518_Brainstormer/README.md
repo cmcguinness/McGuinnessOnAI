@@ -6,4 +6,4 @@ There are two .json files, both are datapacks, which contain a DataRaptor, Integ
 
 The integration procedure will have to be activated to run the demo, and you need to supply an Opportunity Id as the Context Id of the OmniScript.
 
-More details in my newsletter article here: (TBD)
+More details in my newsletter article here: https://mcguinnessai.substack.com/p/brainstorming-about-brainstorming
