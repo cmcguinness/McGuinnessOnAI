@@ -14,3 +14,4 @@ Each subdirectory represents the supporting content for a post on my substack, a
 | [20230516_Google_PaLM2](20230516_Google_PaLM2)               | [The Goog Strikes Back](https://mcguinnessai.substack.com/p/the-goog-strikes-back) |
 | [20230518_Brainstormer](20230518_Brainstormer)               | [Brainstorming on Brainstorming](https://mcguinnessai.substack.com/p/brainstorming-about-brainstorming) |
 
+There is also a Utilities directory which will accumulate little utility programs I write to help make building and maintaining these things easier.
