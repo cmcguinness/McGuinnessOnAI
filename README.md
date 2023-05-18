@@ -12,4 +12,5 @@ Each subdirectory represents the supporting content for a post on my substack, a
 | [20230501_Life Insurance_Recommender_V1](20230501_Life_Insurance_Recommender_V1) | [GPT Sells You Life Insurance](https://mcguinnessai.substack.com/p/gpt-sells-you-life-insurance) |
 | [20230511_Life_Insurance_Recommender_V2](20230511_Life_Insurance_Recommender_V2) | [Getting JSON Back From GPT](https://mcguinnessai.substack.com/p/getting-json-back-from-gpt) |
 | [20230516_Google_PaLM2](20230516_Google_PaLM2)               | [The Goog Strikes Back](https://mcguinnessai.substack.com/p/the-goog-strikes-back) |
+| [20230518_Brainstormer](20230518_Brainstormer)               | Brainstorming on Brainstorming                               |
 

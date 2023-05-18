@@ -1,0 +1,8 @@
+I have an opportunity named %Opportunity:OpportunityName% at the company called %Opportunity:AccountName%.
+I expect the deal to close for $%Opportunity:ExpectedRevenue% in %Opportunity:DaysToClose% days.
+I have a %Opportunity:Probability% percent chance of closing it.
+It is in the %Opportunity:Stage% stage.
+
+%StringOfContacts%
+
+Please recommend 3 ideas I could try to move this deal along faster.
