@@ -1,0 +1,531 @@
+{
+    "useVlocityTriggers": true,
+    "status": "Complete",
+    "processMultiple": true,
+    "primaryDataPackType": "OmniScript",
+    "primaryDataPackKey": "ec2e81844552556371632eab12fb5a83",
+    "maxDepth": -1,
+    "isChunked": false,
+    "ignoreAllErrors": false,
+    "forceQueueable": false,
+    "forceOldDataModel": null,
+    "dataPacks": [
+        {
+            "VlocityPrimarySourceId": "0jNDp000000gMJbMAM",
+            "VlocityPreviousPageKey": null,
+            "VlocityMultiPackParentKey": null,
+            "VlocityDepthFromPrimary": 0,
+            "VlocityDataPackType": "OmniScript",
+            "VlocityDataPackStatus": "Success",
+            "VlocityDataPackRelationshipType": "Primary",
+            "VlocityDataPackRecords": [],
+            "VlocityDataPackParents": [],
+            "VlocityDataPackName": "test widgets",
+            "VlocityDataPackMessage": null,
+            "VlocityDataPackLabel": "OmniScript",
+            "VlocityDataPackKey": "ec2e81844552556371632eab12fb5a83",
+            "VlocityDataPackIsNotSupported": false,
+            "VlocityDataPackIsIncluded": true,
+            "VlocityDataPackData": {
+                "Id": "0jNDp000000gMJbMAM",
+                "VlocityDataPackRelationshipType": "Primary",
+                "VlocityDataPackLabel": "OmniScript",
+                "VlocityDataPackType": "OmniScript",
+                "VlocityDataPackKey": "ec2e81844552556371632eab12fb5a83",
+                "%vlocity_namespace%__OmniScript__c": [
+                    {
+                        "%vlocity_namespace%__DisableMetadataCache__c": false,
+                        "%vlocity_namespace%__IsTest__c": false,
+                        "%vlocity_namespace%__Description__c": "",
+                        "OverrideKey": "",
+                        "%vlocity_namespace%__IsActive__c": false,
+                        "VlocityDataPackType": "SObject",
+                        "Name": "test widgets",
+                        "OmniProcessKey": "",
+                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                        "%vlocity_namespace%__Language__c": "English",
+                        "%vlocity_namespace%__PropertySet__c": "{\"persistentComponent\":[{\"render\":false,\"label\":\"\",\"remoteClass\":\"\",\"remoteMethod\":\"\",\"remoteTimeout\":30000,\"remoteOptions\":{\"preTransformBundle\":\"\",\"postTransformBundle\":\"\"},\"preTransformBundle\":\"\",\"postTransformBundle\":\"\",\"sendJSONPath\":\"\",\"sendJSONNode\":\"\",\"responseJSONPath\":\"\",\"responseJSONNode\":\"\",\"id\":\"vlcCart\",\"itemsKey\":\"cartItems\",\"modalConfigurationSetting\":{\"modalHTMLTemplateId\":\"vlcProductConfig.html\",\"modalController\":\"ModalProductCtrl\",\"modalSize\":\"lg\"}},{\"render\":false,\"dispOutsideOmni\":false,\"label\":\"\",\"remoteClass\":\"\",\"remoteMethod\":\"\",\"remoteTimeout\":30000,\"remoteOptions\":{\"preTransformBundle\":\"\",\"postTransformBundle\":\"\"},\"preTransformBundle\":\"\",\"postTransformBundle\":\"\",\"id\":\"vlcKnowledge\",\"itemsKey\":\"knowledgeItems\",\"modalConfigurationSetting\":{\"modalHTMLTemplateId\":\"\",\"modalController\":\"\",\"modalSize\":\"lg\"}}],\"allowSaveForLater\":true,\"saveNameTemplate\":null,\"saveExpireInDays\":null,\"saveForLaterRedirectPageName\":\"sflRedirect\",\"saveForLaterRedirectTemplateUrl\":\"vlcSaveForLaterAcknowledge.html\",\"saveContentEncoded\":false,\"saveObjectId\":\"%ContextId%\",\"saveURLPatterns\":{},\"autoSaveOnStepNext\":false,\"elementTypeToHTMLTemplateMapping\":{},\"seedDataJSON\":{},\"trackingCustomData\":{},\"enableKnowledge\":false,\"bLK\":false,\"lkObjName\":null,\"knowledgeArticleTypeQueryFieldsMap\":{},\"timeTracking\":false,\"hideStepChart\":false,\"mergeSavedData\":false,\"visualforcePagesAvailableInPreview\":{},\"cancelType\":\"SObject\",\"allowCancel\":true,\"cancelSource\":\"%ContextId%\",\"cancelRedirectPageName\":\"OmniScriptCancelled\",\"cancelRedirectTemplateUrl\":\"vlcCancelled.html\",\"consoleTabLabel\":\"New\",\"wpm\":false,\"ssm\":false,\"message\":{},\"pubsub\":false,\"autoFocus\":false,\"currencyCode\":\"\",\"showInputWidth\":false,\"rtpSeed\":false,\"consoleTabTitle\":null,\"consoleTabIcon\":\"custom:custom18\",\"errorMessage\":{\"custom\":[]},\"stylesheet\":{\"newport\":\"\",\"lightning\":\"\",\"newportRtl\":\"\",\"lightningRtl\":\"\"},\"stepChartPlacement\":\"right\",\"disableUnloadWarn\":true,\"scrollBehavior\":\"auto\",\"currentLanguage\":\"en_US\"}",
+                        "%vlocity_namespace%__LastPreviewPage__c": "",
+                        "%vlocity_namespace%__OmniProcessType__c": "OmniScript",
+                        "%vlocity_namespace%__ElementTypeToHTMLTemplateList__c": "{\"ElementTypeToHTMLTemplateList\":[]}",
+                        "VlocityDataPackIsIncluded": true,
+                        "%vlocity_namespace%__SubType__c": "widgets",
+                        "%vlocity_namespace%__SalesforcePlatformCacheType__c": "",
+                        "%vlocity_namespace%__IsReusable__c": false,
+                        "%vlocity_namespace%__IsProcedure__c": false,
+                        "%vlocity_namespace%__CustomJavaScript__c": "",
+                        "%vlocity_namespace%__Version__c": 1,
+                        "DesignerCustomizationType": "",
+                        "Namespace": "",
+                        "%vlocity_namespace%__Type__c": "test",
+                        "VlocityRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                        "%vlocity_namespace%__RequiredPermission__c": "",
+                        "%vlocity_namespace%__LwcId__c": "",
+                        "%vlocity_namespace%__IsLwcEnabled__c": true,
+                        "%vlocity_namespace%__Element__c": [
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "Step1",
+                                "ParentElementName": "",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Step",
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "%vlocity_namespace%__ParentElementId__c": "",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"label\":\"Create a Widget Order!\",\"validationRequired\":true,\"previousLabel\":\"Previous\",\"previousWidth\":3,\"nextLabel\":\"Next\",\"nextWidth\":3,\"cancelLabel\":\"Cancel\",\"cancelMessage\":\"Are you sure?\",\"saveLabel\":\"Save for later\",\"saveMessage\":\"Are you sure you want to save it for later?\",\"completeLabel\":\"Complete\",\"completeMessage\":\"Are you sure you want to complete the script?\",\"instruction\":\"\",\"showPersistentComponent\":[true,false],\"remoteClass\":\"\",\"remoteMethod\":\"\",\"remoteTimeout\":30000,\"remoteOptions\":{},\"knowledgeOptions\":{\"language\":\"English\",\"publishStatus\":\"Online\",\"keyword\":\"\",\"dataCategoryCriteria\":\"\",\"remoteTimeout\":30000,\"typeFilter\":\"\"},\"show\":null,\"conditionType\":\"Hide if False\",\"HTMLTemplateId\":\"\",\"instructionKey\":\"\",\"chartLabel\":null,\"allowSaveForLater\":true,\"errorMessage\":{\"custom\":[],\"default\":null},\"wpm\":false,\"ssm\":false,\"message\":{},\"pubsub\":false,\"businessCategory\":\"\",\"businessEvent\":\"\"}",
+                                "%vlocity_namespace%__Order__c": 0,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 0,
+                                "Id": "0kEDp000000jX52MAE",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": ""
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selBlue",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5IMAU",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"disOnTplt\":false,\"hide\":false,\"HTMLTemplateId\":\"\",\"accessibleInFutureSteps\":false,\"conditionType\":\"Hide if False\",\"show\":null,\"controllingField\":{\"source\":\"\",\"type\":\"\",\"element\":\"\"},\"optionSource\":{\"source\":\"\",\"type\":\"\"},\"options\":[{\"autoAdv\":null,\"value\":\"0\",\"name\":\"0\"},{\"autoAdv\":null,\"value\":\"1\",\"name\":\"1\"},{\"autoAdv\":null,\"value\":\"2\",\"name\":\"2\"},{\"autoAdv\":null,\"value\":\"3\",\"name\":\"3\"},{\"autoAdv\":null,\"value\":\"4\",\"name\":\"4\"}],\"helpTextPos\":\"\",\"helpText\":\"\",\"help\":false,\"defaultValue\":\"0\",\"readOnly\":false,\"repeatLimit\":null,\"repeatClone\":false,\"repeat\":false,\"required\":false,\"inputWidth\":12,\"showInputWidth\":false,\"label\":\"Blue Widgets\",\"controlWidth\":2}",
+                                "%vlocity_namespace%__Order__c": 5,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5IMAU",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selGreen",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5WMAU",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"controlWidth\":2,\"label\":\"Green Widgets\",\"showInputWidth\":false,\"inputWidth\":12,\"required\":false,\"repeat\":false,\"repeatClone\":false,\"repeatLimit\":null,\"readOnly\":false,\"defaultValue\":\"0\",\"help\":false,\"helpText\":\"\",\"helpTextPos\":\"\",\"options\":[{\"name\":\"0\",\"value\":\"0\",\"autoAdv\":null},{\"name\":\"1\",\"value\":\"1\",\"autoAdv\":null},{\"name\":\"2\",\"value\":\"2\",\"autoAdv\":null},{\"name\":\"3\",\"value\":\"3\",\"autoAdv\":null},{\"name\":\"4\",\"value\":\"4\",\"autoAdv\":null}],\"optionSource\":{\"type\":\"\",\"source\":\"\"},\"controllingField\":{\"element\":\"\",\"type\":\"\",\"source\":\"\"},\"show\":null,\"conditionType\":\"Hide if False\",\"accessibleInFutureSteps\":false,\"HTMLTemplateId\":\"\",\"hide\":false,\"disOnTplt\":false}",
+                                "%vlocity_namespace%__Order__c": 6,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5WMAU",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "LineBreak2",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Line Break",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5XMAU",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"label\":\"LineBreak2\",\"padding\":0,\"show\":null,\"HTMLTemplateId\":\"\"}",
+                                "%vlocity_namespace%__Order__c": 7,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5XMAU",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selBkack",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5RMAU",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"disOnTplt\":false,\"hide\":false,\"HTMLTemplateId\":\"\",\"accessibleInFutureSteps\":false,\"conditionType\":\"Hide if False\",\"show\":null,\"controllingField\":{\"source\":\"\",\"type\":\"\",\"element\":\"\"},\"optionSource\":{\"source\":\"\",\"type\":\"\"},\"options\":[{\"autoAdv\":null,\"value\":\"0\",\"name\":\"0\"},{\"autoAdv\":null,\"value\":\"1\",\"name\":\"1\"},{\"autoAdv\":null,\"value\":\"2\",\"name\":\"2\"},{\"autoAdv\":null,\"value\":\"3\",\"name\":\"3\"},{\"autoAdv\":null,\"value\":\"4\",\"name\":\"4\"}],\"helpTextPos\":\"\",\"helpText\":\"\",\"help\":false,\"defaultValue\":\"0\",\"readOnly\":false,\"repeatLimit\":null,\"repeatClone\":false,\"repeat\":false,\"required\":false,\"inputWidth\":12,\"showInputWidth\":false,\"label\":\"Black Widgets\",\"controlWidth\":2}",
+                                "%vlocity_namespace%__Order__c": 2,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5RMAU",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selRed",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5SMAU",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"controlWidth\":2,\"label\":\"Red Widgets\",\"showInputWidth\":false,\"inputWidth\":12,\"required\":false,\"repeat\":false,\"repeatClone\":false,\"repeatLimit\":null,\"readOnly\":false,\"defaultValue\":\"0\",\"help\":false,\"helpText\":\"\",\"helpTextPos\":\"\",\"options\":[{\"name\":\"0\",\"value\":\"0\",\"autoAdv\":null},{\"name\":\"1\",\"value\":\"1\",\"autoAdv\":null},{\"name\":\"2\",\"value\":\"2\",\"autoAdv\":null},{\"name\":\"3\",\"value\":\"3\",\"autoAdv\":null},{\"name\":\"4\",\"value\":\"4\",\"autoAdv\":null}],\"optionSource\":{\"type\":\"\",\"source\":\"\"},\"controllingField\":{\"element\":\"\",\"type\":\"\",\"source\":\"\"},\"show\":null,\"conditionType\":\"Hide if False\",\"accessibleInFutureSteps\":false,\"HTMLTemplateId\":\"\",\"hide\":false,\"disOnTplt\":false}",
+                                "%vlocity_namespace%__Order__c": 4,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5SMAU",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selMagenta",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5gMAE",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"controlWidth\":2,\"label\":\"Magenta Widgets\",\"showInputWidth\":false,\"inputWidth\":12,\"required\":false,\"repeat\":false,\"repeatClone\":false,\"repeatLimit\":null,\"readOnly\":false,\"defaultValue\":\"0\",\"help\":false,\"helpText\":\"\",\"helpTextPos\":\"\",\"options\":[{\"name\":\"0\",\"value\":\"0\",\"autoAdv\":null},{\"name\":\"1\",\"value\":\"1\",\"autoAdv\":null},{\"name\":\"2\",\"value\":\"2\",\"autoAdv\":null},{\"name\":\"3\",\"value\":\"3\",\"autoAdv\":null},{\"name\":\"4\",\"value\":\"4\",\"autoAdv\":null}],\"optionSource\":{\"type\":\"\",\"source\":\"\"},\"controllingField\":{\"element\":\"\",\"type\":\"\",\"source\":\"\"},\"show\":null,\"conditionType\":\"Hide if False\",\"accessibleInFutureSteps\":false,\"HTMLTemplateId\":\"\",\"hide\":false,\"disOnTplt\":false}",
+                                "%vlocity_namespace%__Order__c": 9,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5gMAE",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selYellow",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5hMAE",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"disOnTplt\":false,\"hide\":false,\"HTMLTemplateId\":\"\",\"accessibleInFutureSteps\":false,\"conditionType\":\"Hide if False\",\"show\":null,\"controllingField\":{\"source\":\"\",\"type\":\"\",\"element\":\"\"},\"optionSource\":{\"source\":\"\",\"type\":\"\"},\"options\":[{\"autoAdv\":null,\"value\":\"0\",\"name\":\"0\"},{\"autoAdv\":null,\"value\":\"1\",\"name\":\"1\"},{\"autoAdv\":null,\"value\":\"2\",\"name\":\"2\"},{\"autoAdv\":null,\"value\":\"3\",\"name\":\"3\"},{\"autoAdv\":null,\"value\":\"4\",\"name\":\"4\"}],\"helpTextPos\":\"\",\"helpText\":\"\",\"help\":false,\"defaultValue\":\"0\",\"readOnly\":false,\"repeatLimit\":null,\"repeatClone\":false,\"repeat\":false,\"required\":false,\"inputWidth\":12,\"showInputWidth\":false,\"label\":\"Yellow Widgets\",\"controlWidth\":2}",
+                                "%vlocity_namespace%__Order__c": 10,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5hMAE",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selWhite",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX58MAE",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"controlWidth\":2,\"label\":\"White Widgets\",\"showInputWidth\":false,\"inputWidth\":12,\"required\":false,\"repeat\":false,\"repeatClone\":false,\"repeatLimit\":null,\"readOnly\":false,\"defaultValue\":\"0\",\"help\":false,\"helpText\":\"\",\"helpTextPos\":\"\",\"options\":[{\"name\":\"0\",\"value\":\"0\",\"autoAdv\":null},{\"name\":\"1\",\"value\":\"1\",\"autoAdv\":null},{\"name\":\"2\",\"value\":\"2\",\"autoAdv\":null},{\"name\":\"3\",\"value\":\"3\",\"autoAdv\":null},{\"name\":\"4\",\"value\":\"4\",\"autoAdv\":null}],\"optionSource\":{\"type\":\"\",\"source\":\"\"},\"controllingField\":{\"element\":\"\",\"type\":\"\",\"source\":\"\"},\"show\":null,\"conditionType\":\"Hide if False\",\"accessibleInFutureSteps\":false,\"HTMLTemplateId\":\"\",\"hide\":false,\"disOnTplt\":false}",
+                                "%vlocity_namespace%__Order__c": 1,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX58MAE",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "TextBlock1",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Text Block",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX57MAE",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"controlWidth\":12,\"label\":\"TextBlock1\",\"text\":\"<p>Please select the number of widgets you wish to order:</p>\\n<p>&nbsp;</p>\\n<p></p>\",\"show\":null,\"dataJSON\":false,\"HTMLTemplateId\":\"\",\"textKey\":\"\",\"sanitize\":false}",
+                                "%vlocity_namespace%__Order__c": 0,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX57MAE",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "LineBreak1",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Line Break",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX59MAE",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"label\":\"LineBreak1\",\"padding\":0,\"show\":null,\"HTMLTemplateId\":\"\"}",
+                                "%vlocity_namespace%__Order__c": 3,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX59MAE",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            },
+                            {
+                                "%vlocity_namespace%__Description__c": "",
+                                "%vlocity_namespace%__IsActive__c": true,
+                                "VlocityDataPackType": "SObject",
+                                "%vlocity_namespace%__IsReusable__c": false,
+                                "DesignerCustomizationType": "",
+                                "Name": "selCyan",
+                                "ParentElementName": "Step1",
+                                "EmbeddedOmniScriptKey": "",
+                                "%vlocity_namespace%__Type__c": "Select",
+                                "%vlocity_namespace%__ParentElementId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX52MAE",
+                                    "%vlocity_namespace%__OmniScriptId__c": {
+                                        "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                        "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                        "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                        "Name": "test widgets"
+                                    },
+                                    "Name": "Step1"
+                                },
+                                "VlocityRecordSObjectType": "%vlocity_namespace%__Element__c",
+                                "VlocityRecordSourceKey": "VlocityRecordSourceKey:0kEDp000000jX5AMAU",
+                                "%vlocity_namespace%__Version__c": 1,
+                                "%vlocity_namespace%__PropertySet__c": "{\"disOnTplt\":false,\"hide\":false,\"HTMLTemplateId\":\"\",\"accessibleInFutureSteps\":false,\"conditionType\":\"Hide if False\",\"show\":null,\"controllingField\":{\"source\":\"\",\"type\":\"\",\"element\":\"\"},\"optionSource\":{\"source\":\"\",\"type\":\"\"},\"options\":[{\"autoAdv\":null,\"value\":\"0\",\"name\":\"0\"},{\"autoAdv\":null,\"value\":\"1\",\"name\":\"1\"},{\"autoAdv\":null,\"value\":\"2\",\"name\":\"2\"},{\"autoAdv\":null,\"value\":\"3\",\"name\":\"3\"},{\"autoAdv\":null,\"value\":\"4\",\"name\":\"4\"}],\"helpTextPos\":\"\",\"helpText\":\"\",\"help\":false,\"defaultValue\":\"0\",\"readOnly\":false,\"repeatLimit\":null,\"repeatClone\":false,\"repeat\":false,\"required\":false,\"inputWidth\":12,\"showInputWidth\":false,\"label\":\"Cyan Widgets\",\"controlWidth\":2}",
+                                "%vlocity_namespace%__Order__c": 8,
+                                "%vlocity_namespace%__OmniScriptId__c": {
+                                    "VlocityRecordSObjectType": "%vlocity_namespace%__OmniScript__c",
+                                    "VlocityDataPackType": "VlocityMatchingKeyObject",
+                                    "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:0jNDp000000gMJbMAM",
+                                    "Name": "test widgets"
+                                },
+                                "%vlocity_namespace%__Level__c": 1,
+                                "Id": "0kEDp000000jX5AMAU",
+                                "VlocityDataPackIsIncluded": true,
+                                "ParentElementType": "Step"
+                            }
+                        ],
+                        "Id": "0jNDp000000gMJbMAM",
+                        "UniqueName": "",
+                        "CustomHtmlTemplates": ""
+                    }
+                ]
+            },
+            "VlocityDataPackAllRelationships": {},
+            "DataPackAttachmentSize": 24953,
+            "DataPackAttachmentParentId": "0ncDp000000gFTQIA2",
+            "DataPackAttachmentId": "00PDp000003VQ9dMAG",
+            "ActivationStatus": "Ready"
+        }
+    ],
+    "dataPackId": "0ncDp000000gFTQIA2",
+    "alreadyExportedKeys": [],
+    "name": "test widgets",
+    "description": "",
+    "version": 1,
+    "Status": "Complete"
+}
