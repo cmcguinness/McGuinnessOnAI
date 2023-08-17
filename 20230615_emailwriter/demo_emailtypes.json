@@ -1,0 +1,30 @@
+[
+    {
+        "label": "Followup Email",
+        "value": {
+            "textbox": "Please describe the purpose of this email",
+            "prompt": "An email following up with the customer on the subject of:"
+        }
+    },
+    {
+        "label": "Introduction to New Contact",
+        "value": {
+            "textbox": "What do you want to say about yourself and why the contact should be interested?",
+            "prompt": "We are introducing ourselves to a new contact at the customer in this email.  Please focus on:"
+        }
+    },
+    {
+        "label": "Schedule a Call",
+        "value": {
+            "textbox": "Please describe the purpose of this call and why it's important",
+            "prompt": "An email to try to schedule a call on the subject of:"
+        }
+    },
+    {
+        "label": "Reminder of Upcoming Event",
+        "value": {
+            "textbox": "What is the event (and any pertinent details)?",
+            "prompt": "An email to remind someone of an upcoming event:"
+        }
+    }
+]
